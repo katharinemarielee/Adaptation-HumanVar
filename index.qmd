@@ -1,0 +1,58 @@
+---
+title: "Adaptation & Human Variability"
+subtitle: "ANTH-3720-01/6091-01"
+format: html
+editor: visual
+---
+
+## Logistical details
+
+-   Instructor's name:
+-   Office location:
+-   Office Hours:
+-   Phone number:
+-   Email address:
+
+## Contacting me
+
+The best way to reach me is by email. In general, I do not reply to emails after busi-ness hours or on the weekends. Please put the course number in the title of the email address. I receive a lot of emails, and I set up a folder to automatically sort emails from this course into a folder so I can reply to you in a timely fashion (generally, within 1-2 workdays). If you do not put the course number in the email title, your email may be lost and buried and I may never respond.
+
+## Catalog/Course description
+
+This course covers biological adaptations of living human populations to their environments, and the inter-action of these adaptations with cultural patterns. The relationships of body size, form, and composition to climatic and nutritional factors in various geographical groups of modern humans are covered. Major adap-tive problems facing the human species are discussed and implications for the future are also explored.
+
+## Course Goals
+
+The goal of this course is to provide an overview of adaptation and variation in modern humans. We will learn some introductory genetics as well as some important and well-studied ways that human biology and physiology varies. We will also learn the problematic history of the study of human classification and variation and discuss ongoing current topics in human adaptation and human variation As part of this course, you’ll practice talking about and writing human about variation in ways that are inclusive and respectful of individual experience.
+
+## Course Learning Objectives
+
+By the end of the course, I expect you to:
+
+1.  Have a strong grasp of the basic concepts of genetics and population genetics
+
+2.  Describe some basic quantifiable genetically-linked traits from the study of human variation, such as blood types, lactase persistence, anthropometrics, and pigmentation
+
+3.  Understand and summarize how the history of eugenics and colonialism have shaped the scientific study of human variation
+
+4.  Describe several ways that culture and ecology contribute to modern human adaptation and variation
+
+## A note about safety, community, and taking care of each other [^1]
+
+[^1]: This section is derived in part from Dr. Laura Mauldin’s [Course Ethos of Care](https://docs.google.com/document/d/1lCEMb43ZzdJCA1Z_eni7HX6BH8F6HOeSwkYqIqqADh8/mobilebasic)
+
+Taking care of ourselves and one another is a radical act, and we will all be learning how to do it better throughout the semester. I want to explicitly set the tone for how we’ll get through the semester while prioritizing care. Here are a few ideas for how we can create an ethos of care in the course. This is not an exhaustive list, and it would be great if, at the end of the course, we came back to this document and together added things we think might be useful. We are collaborative.
+
+-   This course is occurring during multiple, ongoing, and overlapping pandemics. I cannot require students wear masks, but *I highly encourage everyone to wear effective masks (N95, KN95, KF 95, etc) at every indoor gathering outside of your household* including in this classroom. Many people have non-visible increased vulnerabilities to disease or have frequent interactions with vulnerable friends and family. Using simple methods (wearing masks, washing hands) to reduce risk as a community is an important way of ensuring safety and inclusion of more vulnerable people. [*Please wear a well-fitting and effective mask in our class and when you visit my office.*]{.underline}
+-   **Please do not come to class if you feel ill**. Take the time you need to recover, and remember that pushing yourself to attend events can expose others to illness unnecessarily. This course is designed with flexibility in mind, as people get sick, weather happens, and life is unpredictable. We may end up needing to move lectures and activities online temporarily or we may adjust the syllabus to simplify the course content. Ask for what you need, and we will all try to show each other grace and understanding.
+-   I encourage you to **ask for what you need**. “Needs” are not “special,” they just are. And everyone has different ones. It is okay to need something different when it comes to the course–I try to design with accessibility in mind like using captioned media and having documents be screen reader friendly. Do you have access needs that I have not covered? Is there something we can do collectively to help you thrive? We can and will have those conversations in the ways that feel most comfortable to you (privately, with each other, and so on). *Ask for what you need.*
+-   Asking for what you need also pertains to extensions. While reading responses are designed to ensure you read & reflect before we meet as a class, I know life happens. You do not need to apologize for needing more time. I can provide extensions. It is okay to take longer. We can work together to problem-solve.
+-   Taking care of ourselves and each other also means taking things week by week. Yes we have a syllabus. It is ambitious. We will check in regularly to make sure the ambitions are still feasible.
+-   Taking care of ourselves and each other means getting creative and innovative. It also can mean devising new ways of engaging with material. Let’s talk about the we can do so collectively and collaboratively if that is something that nurtures you and your intellectual development.
+-   Bring yourself as you are. We are all working under duress, whether it’s a pandemic, late capitalism, attacks on reproductive rights, misogyny, white supremacy, and all of those things and more at once. **Let’s not pretend that the very things we discuss in the course aren’t the very things we live with, in our bodies, in our worlds.** Let’s take care of each other in class through kindness and support.
+
+## Required Student Resources
+
+**Textbook:** Probably [this one](https://www.routledge.com/Human-Biological-Diversity/Brown/p/book/9781138037533), although I HATE the price point.
+
+*All other readings will be posted as pdfs or links on the course website*
